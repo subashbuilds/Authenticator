@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="public/pwa-512.png" width="150" alt="Authenticator logo" />
+<img src="public/pwa-512.png" width="150" alt="sAuth Authenticator logo" />
 
-# Authenticator
+# sAuth
 
 **An offline-first, self-hosted TOTP (2FA) authenticator.**
 Every account is encrypted on your device — nothing ever touches a server.
@@ -14,7 +14,7 @@ Every account is encrypted on your device — nothing ever touches a server.
 [![React](https://img.shields.io/badge/React-19-149ECA?logo=react&logoColor=white)](https://react.dev/)
 [![PWA](https://img.shields.io/badge/PWA-installable-5A0FC8?logo=pwa&logoColor=white)](https://web.dev/progressive-web-apps/)
 
-[Documentation](./DOCUMENTATION.md) · [Security](./SECURITY.md) · [Report an issue](https://github.com/subashbuilds/Authenticator/issues)
+[Documentation](./DOCUMENTATION.md) · [Security](./SECURITY.md) · [Report an issue](https://github.com/subashbuilds/Authenticator/issues) · [Demo](https://sauth.indevs.in)
 
 **If this is useful, a ⭐ star helps others find it.**
 
@@ -49,7 +49,7 @@ key that never leaves your device, and no network dependency at all once it's lo
 
 | Welcome | Vault |
 |---|---|
-| _Create or open your vault_ | _Live codes with countdown_ |
+| <img src="screenshot2.png" width="440" height="800" alt="Start Page" /> | <img src="screenshot1.png" width="440" height="800" alt="Home Page" /> |
 
 ## Getting started
 
