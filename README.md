@@ -7,7 +7,6 @@
 **An offline-first, self-hosted TOTP (2FA) authenticator.**
 Every account is encrypted on your device — nothing ever touches a server.
 
-[![CI](https://github.com/subashbuilds/Authenticator/actions/workflows/ci.yml/badge.svg)](https://github.com/subashbuilds/Authenticator/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-informational.svg)](./LICENSE)
 [![Stars](https://img.shields.io/github/stars/subashbuilds/Authenticator?style=flat&color=yellow)](https://github.com/subashbuilds/Authenticator/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](./CONTRIBUTING.md)
@@ -15,7 +14,9 @@ Every account is encrypted on your device — nothing ever touches a server.
 [![React](https://img.shields.io/badge/React-19-149ECA?logo=react&logoColor=white)](https://react.dev/)
 [![PWA](https://img.shields.io/badge/PWA-installable-5A0FC8?logo=pwa&logoColor=white)](https://web.dev/progressive-web-apps/)
 
-[Documentation](./DOCUMENTATION.md) · [Security](./SECURITY.md) · [Report an issue](https://github.com/subashbuilds/Authenticator/issues) · **If this is useful, a ⭐ star helps others find it.**
+[Documentation](./DOCUMENTATION.md) · [Security](./SECURITY.md) · [Report an issue](https://github.com/subashbuilds/Authenticator/issues)
+
+**If this is useful, a ⭐ star helps others find it.**
 
 </div>
 
