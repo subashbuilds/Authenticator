@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="public/pwa-512.png" width="96" height="96" alt="Authenticator logo" />
+<img src="public/pwa-512.png" width="150" alt="Authenticator logo" />
 
 # Authenticator
 
