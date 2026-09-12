@@ -9,7 +9,7 @@ export default defineConfig({
     react(),
     VitePWA({
       registerType: 'autoUpdate',
-      includeAssets: ['favicon.png', 'apple-touch-icon.png'],
+      includeAssets: ['logo.svg', 'apple-touch-icon.png'],
       manifest: {
         name: 'Web Authenticator',
         short_name: 'Authenticator',
