@@ -33,7 +33,7 @@ interface AuthenticatorDB extends DBSchema {
   }
 }
 
-const DB_NAME = 'web-authenticator'
+const DB_NAME = 'sAuth'
 
 let dbPromise: Promise<IDBPDatabase<AuthenticatorDB>> | null = null
 

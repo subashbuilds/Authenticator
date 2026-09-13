@@ -34,7 +34,7 @@ export function DocumentationScreen({ onBack }: DocumentationScreenProps) {
           <Logo size={48} />
           <div>
             <h2 style={{ fontSize: 17, fontFamily: 'var(--font-wordmark)', textTransform: 'uppercase', letterSpacing: '0.02em' }}>
-              Authenticator
+              sAuth Authenticator
             </h2>
             <p style={{ fontSize: 13, color: 'var(--color-text-muted)' }}>
               An offline-first, self-hosted TOTP authenticator.

@@ -52,7 +52,7 @@ export interface EncryptedBlob {
 
 /** Encrypted backup file structure written to disk on export. */
 export interface BackupFile {
-  format: 'web-authenticator-backup'
+  format: 'sAuth-backup'
   version: number
   createdAt: number
   kdf: KdfParams

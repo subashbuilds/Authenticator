@@ -32,7 +32,7 @@ export function ExportBackupModal({ onClose }: { onClose: () => void }) {
       const a = document.createElement('a')
       const timestamp = new Date().toISOString().slice(0, 10)
       a.href = url
-      a.download = `authenticator-backup-${timestamp}.json`
+      a.download = `sAuth-backup-${timestamp}.json`
       document.body.appendChild(a)
       a.click()
       a.remove()

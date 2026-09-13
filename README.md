@@ -8,13 +8,13 @@
 Every account is encrypted on your device — nothing ever touches a server.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-informational.svg)](./LICENSE)
-[![Stars](https://img.shields.io/github/stars/subashbuilds/Authenticator?style=flat&color=yellow)](https://github.com/subashbuilds/Authenticator/stargazers)
+[![Stars](https://img.shields.io/github/stars/subashbuilds/sAuth?style=flat&color=yellow)](https://github.com/subashbuilds/sAuth/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](./CONTRIBUTING.md)
 [![TypeScript](https://img.shields.io/badge/TypeScript-strict-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-19-149ECA?logo=react&logoColor=white)](https://react.dev/)
 [![PWA](https://img.shields.io/badge/PWA-installable-5A0FC8?logo=pwa&logoColor=white)](https://web.dev/progressive-web-apps/)
 
-[Documentation](./DOCUMENTATION.md) · [Security](./SECURITY.md) · [Report an issue](https://github.com/subashbuilds/Authenticator/issues) · [Demo](https://sauth.indevs.in)
+[Documentation](./DOCUMENTATION.md) · [Security](./SECURITY.md) · [Report an issue](https://github.com/subashbuilds/sAuth/issues) · [Demo](https://sauth.indevs.in)
 
 **If this is useful, a ⭐ star helps others find it.**
 
@@ -54,7 +54,7 @@ key that never leaves your device, and no network dependency at all once it's lo
 ## Getting started
 
 ```bash
-git clone https://github.com/subashbuilds/Authenticator.git
+git clone https://github.com/subashbuilds/sAuth.git
 cd Authenticator
 npm install
 npm run dev

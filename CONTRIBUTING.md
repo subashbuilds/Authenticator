@@ -5,7 +5,7 @@ Issues and pull requests are welcome.
 ## Development setup
 
 ```bash
-git clone https://github.com/subashbuilds/Authenticator.git
+git clone https://github.com/subashbuilds/sAuth.git
 cd Authenticator
 npm install
 npm run dev

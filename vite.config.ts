@@ -11,8 +11,8 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['logo.svg', 'apple-touch-icon.png'],
       manifest: {
-        name: 'Web Authenticator',
-        short_name: 'Authenticator',
+        name: 'sAuth Authenticator',
+        short_name: 'sAuth',
         description: 'Offline-first TOTP authenticator that keeps everything encrypted on your device.',
         theme_color: '#10131a',
         background_color: '#10131a',

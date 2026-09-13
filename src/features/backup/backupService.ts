@@ -9,7 +9,7 @@ import type { AuthenticatorAccount, OtpAlgorithm, OtpDigits } from '../../types/
 import type { BackupFile, BackupPayload } from '../../types/vault'
 import { BACKUP_FORMAT_VERSION } from '../../types/vault'
 
-const BACKUP_FORMAT_TAG = 'web-authenticator-backup'
+const BACKUP_FORMAT_TAG = 'sAuth-backup'
 export const MIN_BACKUP_PASSWORD_LENGTH = 8
 
 export class BackupError extends Error {

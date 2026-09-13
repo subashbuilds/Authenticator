@@ -1,5 +1,5 @@
 {
-  "name": "web-authenticator",
+  "name": "sAuth",
   "private": true,
   "version": "1.0.0",
   "description": "Offline-first TOTP authenticator with client-side AES-256-GCM encryption.",

@@ -15,7 +15,7 @@ beforeEach(async () => {
   // checks and account data never leak across tests.
   await closeDb()
   await new Promise<void>((resolve, reject) => {
-    const req = indexedDB.deleteDatabase('web-authenticator')
+    const req = indexedDB.deleteDatabase('sAuth')
     req.onsuccess = () => resolve()
     req.onerror = () => reject(req.error)
     req.onblocked = () => resolve()

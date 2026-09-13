@@ -18,7 +18,7 @@ import { asBufferSource } from '../utils/binary'
 
 const RP_NAME = 'Web Authenticator'
 const PRF_SALT_BYTES = 32
-const PRF_INFO = new TextEncoder().encode('web-authenticator-vault-unlock-v1')
+const PRF_INFO = new TextEncoder().encode('sAuth-vault-unlock-v1')
 
 export function isWebAuthnSupported(): boolean {
   return (

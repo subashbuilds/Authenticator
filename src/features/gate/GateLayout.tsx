@@ -47,7 +47,7 @@ export function GateLayout({ tagline, children, onOpenDocs }: GateLayoutProps) {
               textTransform: 'uppercase',
             }}
           >
-            Authenticator
+            sAuth Authenticator
           </h1>
           <p style={{ color: 'var(--color-text-secondary)', fontSize: 15, lineHeight: 1.5, maxWidth: 320 }}>
             {tagline}

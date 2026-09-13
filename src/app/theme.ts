@@ -1,6 +1,6 @@
 export type ThemePreference = 'dark' | 'light' | 'system'
 
-const STORAGE_KEY = 'web-authenticator:theme'
+const STORAGE_KEY = 'sAuth:theme'
 
 export function getStoredTheme(): ThemePreference {
   const stored = localStorage.getItem(STORAGE_KEY)
