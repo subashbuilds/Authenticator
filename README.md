@@ -55,7 +55,7 @@ key that never leaves your device, and no network dependency at all once it's lo
 
 ```bash
 git clone https://github.com/subashbuilds/sAuth.git
-cd Authenticator
+cd sAuth
 npm install
 npm run dev
 ```

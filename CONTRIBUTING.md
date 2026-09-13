@@ -6,7 +6,7 @@ Issues and pull requests are welcome.
 
 ```bash
 git clone https://github.com/subashbuilds/sAuth.git
-cd Authenticator
+cd sAuth
 npm install
 npm run dev
 ```
